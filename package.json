@@ -1,0 +1,21 @@
+{
+  "name": "rakobat2",
+  "version": "1.0.0",
+  "description": "Rakobat without reactjs",
+  "main": "gulp",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-stylus": "^2.3.1",
+    "nib": "^1.1.0",
+    "rupture": "^0.6.1",
+    "typographic": "^2.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prudent Ayobami",
+  "license": "ISC"
+}
